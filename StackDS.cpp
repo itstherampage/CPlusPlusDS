@@ -13,6 +13,9 @@
  *     POP operation.                                          *
  * Youtube Title: What is Stack Data Structure? | Data Structure and Algorithms (DSA) | Part - 1
  * Author: Simple Snippets                                     *
+ * Notes: This is my implementation of a data structure by      *
+ *        going through the process of understanding of how it  *
+ *        works.                                               *
  **************************************************************/
 
 class Stack
