@@ -16,7 +16,7 @@ To use the implementations:
 
 1. Clone or download the repository to your local machine.
 2. Compile the `.cpp` file using a C++ compiler.
-3. Run the compiled executable to test the stack operations.
+3. Run the compiled executable to test the desired operations.
    
 ## License
 
